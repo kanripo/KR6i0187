@@ -1,26 +1,25 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:12.477055
+#+DATE: 2015-08-30 20:12:12.995222
 #+TITLE: 五母子經
 #+PROPERTY: CBETA_ID T14n0555b
 #+PROPERTY: ID KR6i0187
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 555b
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6i0187_T_000-0907a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0187_T_001-0907a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.555¶
-
- 五母子經¶
+No. 555¶
+五母子經¶
 ¶
 吳優婆塞支謙譯¶
 
 昔者有阿羅漢在山中奉行道禁。有一小¶
 兒年始七歲，大好道，棄家去作沙門，隨¶
 師在山中，從師學法，精進不懈。年八歲¶
-便得四通：一者眼能徹視，二者耳能徹¶
+便得四通：一者眼能徹視，二者耳而徹¶
 聽，三者能飛行變化，四者自知宿命所¶
 從來生。坐自思念，即見先世宿命所更，
 <pb:KR6i0187_T_001-0907b>¶
